@@ -52,6 +52,13 @@ step-3: register and enqueue scripts from wordpress side and target 'assets/admi
 step4: add composer  command " composer init" for detail follow this video from 16 minutes link:
 https://www.youtube.com/watch?v=D_I3qpuGKno&list=PLu-53K60L1JR3DJqrtmPTdZluw-TaQ9-S&index=8
 
-step-4: install vue-template-compiler npm i vue-template-compiler
+step5: npm i composer
 
-step-5: run command 'npm run watch' then ENJOY!!!
+step6: npm update vue-loader
+
+
+step-7: install vue-template-compiler npm i vue-template-compiler
+
+step-8: run command 'npm run watch' then ENJOY!!!
+
+step9: for routing use history:createWebHashHistory()
