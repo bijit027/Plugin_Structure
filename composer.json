@@ -1,0 +1,13 @@
+{
+    "name": "bijit123/plugin-structure",
+    "description": "practice",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "PSP\\Includes\\": "Includes/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
