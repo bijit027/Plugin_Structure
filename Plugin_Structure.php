@@ -66,7 +66,7 @@ final class Plugin_Structure
     define('PSP_VERSION', self::VERSION);
     define('PSP_PLUGIN_PATH', trailingslashit(plugin_dir_path(__FILE__)));
     define('PSP_PLUGIN_URL', trailingslashit(plugins_url('', __FILE__)));
-    define('PSP_ASSETS', PSP_PLUGIN_URL . '/assets');
+    define('PSP_ASSETS', PSP_PLUGIN_URL . '/Assets');
     // define('AGT_NONCE', 'b?le*;K7.T2jk_*(+3&[G[xAc8O~Fv)2T/Zk9N:GKBkn$piN0.N%N~X91VbCn@.4');
   }
 
