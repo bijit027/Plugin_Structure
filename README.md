@@ -1,7 +1,7 @@
 # Plugin_Structure
 
 
-vue3-awesome_goal_tracker
+
 step-1:
 
 install vue using vue cli npm install -g @vue/cli
